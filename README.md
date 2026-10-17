@@ -6,7 +6,7 @@
 
 | File | Description |
 |---|---|
-| `STATS_GROUP_WORK.ipynb` | Complete analysis: data preparation, PCA, K-Means clustering, interpretation |
+| `global-development-clustering.ipynb` | Complete analysis: data preparation, PCA, K-Means clustering, interpretation |
 | `UN.csv` | Dataset (207 countries, 14 variables) |
 | `elbow_silhouette.png` | Elbow rule and silhouette score for k = 2 to 10 |
 | `pca_k2_vs_preferred.png` | Countries in PCA space, coloured by the k = 2 and k = 4 solutions |
